@@ -7,5 +7,6 @@ This program was designed to mimic an online dictionary. There are only a few hi
 3. When you have a typo, the dictionary will suggest the word closest to it and prompt you to confirm it
 4. Acronyms such as "USA" or "NATO" are not exhibited, the program recognizes these words 
 5. Recognizes pronouns such as Paris or Canada, beginning with capital letters 
+6. You can type the number 0 to end the program
 
 Thank you for trying out my Dictionary!
